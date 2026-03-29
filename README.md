@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Jatin Dhawan
 
-🎓 I'm currently pursuing **BCA (Online)** from Manipal University  
+🎓 I'm currently pursuing **BCA (Online)** from Ignou University  
 💻 Along with a **Software Engineering Diploma** at DICS Institute  
 🚀 Passionate about **Web Development, Python & Java**, and building real-world projects  
 
